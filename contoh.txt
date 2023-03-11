@@ -1,1 +1,4 @@
 melakukan multiple remote
+melakukan pull request
+belajar npm
+belajar webpack
